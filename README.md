@@ -17,4 +17,4 @@ Thilde Terkelsen (thilde.terkelsen@sund.ku.dk) <br>
 
 
 ## Program November 2023
-![image]([https://github.com/Center-for-Health-Data-Science/Foundations-of-Health-Data-Science/edit/main/FHDS_PROGRAM.jpg])
+![image]([https://github.com/Center-for-Health-Data-Science/Foundations-of-Health-Data-Science/edit/main/FHDS_PROGRAM.png])
