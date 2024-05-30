@@ -15,5 +15,5 @@ Henrike Zschach (henrike.zschach@sund.ku.dk) <br>
 Thilde Terkelsen (thilde.terkelsen@sund.ku.dk) <br>
 
 
-## Program November 2023
+## Program June 2024
 ![image](https://github.com/Center-for-Health-Data-Science/Foundations-of-Health-Data-Science/blob/main/FHDS_PROGRAM.png)
